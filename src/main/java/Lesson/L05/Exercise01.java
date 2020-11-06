@@ -1,13 +1,13 @@
-package Zajecia.Zajecia05;
+package Lesson.L05;
 
-import Zajecia.Polecenia;
+import Lesson.ContentOfEx;
 
 import java.util.Scanner;
 
-public class Zad0501 {
+public class Exercise01 {
     private Scanner scanner;
 
-    public Zad0501() {
+    public Exercise01() {
         this.scanner = new Scanner(System.in);
     }
 
@@ -20,10 +20,10 @@ public class Zad0501 {
         return true;
     }
 
-    public void rozwiazanie() {
-        System.out.println(Polecenia.ZAJ05_ZAD01);
+    public void solve() {
+        System.out.println(ContentOfEx.L05_EX01);
         System.out.println();
-        System.out.println("Podaj słowo, bądź ciąg wyrazów, aby sprawdzić czy są palindromem:  ");
+        System.out.println("Enter a word or a sequence of words to check if they are a palindrome:  ");
         System.out.println(palindrom(scanner.nextLine()));
     }
 }

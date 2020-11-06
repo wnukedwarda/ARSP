@@ -6,9 +6,9 @@ import java.util.Scanner;
 public class App {
 
     public static void main(String[] args) throws Exception {
-        System.out.println("Podaj nr zadania w przykładowym formacie: '0201' ");
-        System.out.println("Dostępne zadania:");
-        System.out.println("02 : 9 zadań   |  03 : 5 zadań   |   04 : 12 zadań   |   05 : 3 zadania");
+        System.out.println("Enter the exercises number in the example format: '0201' ");
+        System.out.println("Available exercises:");
+        System.out.println("02 : 9 exercises  |  03 : 5 exercises   |   04 : 12 exercises   |   05 : 3 exercises");
         Scanner scanner = new Scanner(System.in);
         String data = scanner.nextLine();
         invokeMethod(data);
@@ -16,19 +16,19 @@ public class App {
 
     private static void invokeMethod(String className) throws Exception {
 
-        String zadanie = new StringBuilder().append("Zajecia ")
+        String zadanie = new StringBuilder().append("Lesson ")
                 .append(className.substring(0, 2))
-                .append(": Zadanie ")
+                .append(": Exercise ")
                 .append(className.substring(2, 4))
                 .toString();
 
-        String result = new StringBuilder().append("Zajecia")
+        String result = new StringBuilder().append("Lesson")
                 .append(".")
-                .append("Zajecia")
+                .append("L")
                 .append(className.substring(0, 2))
                 .append(".")
-                .append("Zad")
-                .append(className)
+                .append("Exercise")
+                .append(className.substring(2,4))
                 .toString();
 
         System.out.println();
@@ -37,7 +37,7 @@ public class App {
         Class<?> zad = Class.forName(result);
         Constructor<?> cons = zad.getDeclaredConstructor();
         Object obj = cons.newInstance(null);
-        Method m = zad.getDeclaredMethod("rozwiazanie");
+        Method m = zad.getDeclaredMethod("solve");
         m.invoke(obj);
     }
 }
