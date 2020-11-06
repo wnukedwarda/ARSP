@@ -1,5 +1,6 @@
-package Lesson.L02;
+package Lesson.L02.EX01;
 
+import Lesson.L02.EX01.Exercise01;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import java.util.Arrays;

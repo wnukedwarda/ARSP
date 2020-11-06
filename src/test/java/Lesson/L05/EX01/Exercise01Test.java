@@ -1,5 +1,6 @@
-package Lesson.L05;
+package Lesson.L05.EX01;
 
+import Lesson.L05.EX01.Exercise01;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 

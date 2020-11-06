@@ -1,4 +1,4 @@
-package Lesson.L05;
+package Lesson.L05.EX01;
 
 import Lesson.ContentOfEx;
 

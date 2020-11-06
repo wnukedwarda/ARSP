@@ -1,9 +1,8 @@
-package Lesson.L02;
+package Lesson.L02.EX02;
 
+import Lesson.L02.EX02.Exercise02;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
-
-import static org.junit.jupiter.api.Assertions.*;
 
 class Exercise02Test {
     private Exercise02 exercise02;

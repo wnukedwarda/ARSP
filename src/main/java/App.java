@@ -27,6 +27,9 @@ public class App {
                 .append("L")
                 .append(className.substring(0, 2))
                 .append(".")
+                .append("EX")
+                .append(className.substring(2,4))
+                .append(".")
                 .append("Exercise")
                 .append(className.substring(2,4))
                 .toString();

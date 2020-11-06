@@ -7,6 +7,9 @@ public class ContentOfEx {
     public static final String L02_EX02 = "Napisz metodę, porównującą czas wykonania podobnych operacji (dodawanie,\n" +
             "usuwanie, pobranie danych) dla identycznych danych w LinkedList i ArrayList.\n" +
             "Wykorzystaj klasy Instant oraz Duration:\n";
+    public static final String L02_EX03 = "Dodaj listę firmy do klasy Pracownik. Lista powinna stanowić pola tej klasy. Napisz\n" +
+            "metodę, która zmodyfikuje dowolny obiekt tej klasy, dodając do listy nazwy firm\n" +
+            "pracownika (wpisane z klawiatury).\n";
 
     //05
     public static final String L05_EX01 = "Napisz  funkcję,  która  sprawdzi,  czy przekazane  w  parametrze  słowo  jest palindromem.\n" +
