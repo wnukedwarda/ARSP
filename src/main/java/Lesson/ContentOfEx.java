@@ -17,6 +17,9 @@ public class ContentOfEx {
     public static final String L02_EX05 = "Utwórz zbiór, przechowujący imiona osób na roku. Napisz metodę, która wczyta\n" +
             "określoną liczbę imion (metoda powinna zawierać stosowną pętlę). Wyświetl\n" +
             "zawartość zbioru. Wykonaj zadanie dla zbiorów różnego typu, zaobserwuj różnice.";
+    public static final String L02_EX06 = "Wykorzystując zbiór, przygotuj metodę która jako parametr przyjmie słowo\n" +
+            "i wyświetli wszystkie zawarte w nim litery (bez duplikatów, np. dla ALA należy\n" +
+            "wyświetlić A, L).";
 
     //05
     public static final String L05_EX01 = "Napisz  funkcję,  która  sprawdzi,  czy przekazane  w  parametrze  słowo  jest palindromem.\n" +

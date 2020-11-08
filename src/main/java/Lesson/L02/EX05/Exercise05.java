@@ -10,6 +10,7 @@ public class Exercise05 {
     private Set<String> hashSet;
 
     public Exercise05() {
+        System.out.println(ContentOfEx.L02_EX05 + "\n");
         this.linkedSet = new LinkedHashSet<>();
         loadNumberOfStudents(linkedSet);
         this.treeSet = new TreeSet<>(linkedSet);
@@ -27,7 +28,6 @@ public class Exercise05 {
         }
     }
     public void solve(){
-        System.out.println(ContentOfEx.L02_EX05);
         System.out.println();
         System.out.println("Hash Set:");
         hashSet.stream()
