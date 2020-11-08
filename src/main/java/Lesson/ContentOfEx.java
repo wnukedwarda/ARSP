@@ -14,6 +14,9 @@ public class ContentOfEx {
             "(2,3,3.5,4,4.5,5). Napisz metodę, która jako parametr otrzyma liczbę ocen i wypełni\n" +
             "listę ich odpowiednią ilością. Przeszukaj listę i wskaż procentowy udział każdej z ocen\n" +
             "w całości wyników.";
+    public static final String L02_EX05 = "Utwórz zbiór, przechowujący imiona osób na roku. Napisz metodę, która wczyta\n" +
+            "określoną liczbę imion (metoda powinna zawierać stosowną pętlę). Wyświetl\n" +
+            "zawartość zbioru. Wykonaj zadanie dla zbiorów różnego typu, zaobserwuj różnice.";
 
     //05
     public static final String L05_EX01 = "Napisz  funkcję,  która  sprawdzi,  czy przekazane  w  parametrze  słowo  jest palindromem.\n" +

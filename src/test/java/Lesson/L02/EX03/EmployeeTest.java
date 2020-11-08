@@ -23,7 +23,7 @@ class EmployeeTest {
     }
 
     @Test
-    void addCompanies(){
+    void testAddCompanies(){
         assertEquals(employee.getCompanies(),companies);
     }
 
