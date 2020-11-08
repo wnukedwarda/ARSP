@@ -6,9 +6,10 @@ import java.util.Scanner;
 public class App {
 
     public static void main(String[] args) throws Exception {
-        System.out.println("Enter the exercises number in the example format: '0201' ");
         System.out.println("Available exercises:");
         System.out.println("02 : 9 exercises  |  03 : 5 exercises   |   04 : 12 exercises   |   05 : 3 exercises");
+        System.out.println();
+        System.out.println("Enter the exercises number in the example format: '0201' \n");
         Scanner scanner = new Scanner(System.in);
         String data = scanner.nextLine();
         invokeMethod(data);

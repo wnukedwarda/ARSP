@@ -10,6 +10,10 @@ public class ContentOfEx {
     public static final String L02_EX03 = "Dodaj listę firmy do klasy Pracownik. Lista powinna stanowić pola tej klasy. Napisz\n" +
             "metodę, która zmodyfikuje dowolny obiekt tej klasy, dodając do listy nazwy firm\n" +
             "pracownika (wpisane z klawiatury).\n";
+    public static final String L02_EX04 = "Utwórz listę, do której losowo dodasz oceny z zakresu ocen na studiach\n" +
+            "(2,3,3.5,4,4.5,5). Napisz metodę, która jako parametr otrzyma liczbę ocen i wypełni\n" +
+            "listę ich odpowiednią ilością. Przeszukaj listę i wskaż procentowy udział każdej z ocen\n" +
+            "w całości wyników.";
 
     //05
     public static final String L05_EX01 = "Napisz  funkcję,  która  sprawdzi,  czy przekazane  w  parametrze  słowo  jest palindromem.\n" +

@@ -18,6 +18,7 @@ public class Exercise03 {
         System.out.println("Enter companies:");
         String text = scanner.nextLine();
         employee.addCompanies(text);
+        System.out.println(employee.getClass());
         System.out.println("Companies: " + employee.getCompanies());
     }
 }

@@ -2,21 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1dbb872b-bf82-405b-b74a-fd69832d6381" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson/L02/EX03/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson/L02/EX03/Exercise03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Lesson/L02/EX03/EmployeeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Lesson/L02/EX03/Exercise03Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson/L02/EX04/Exercise04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Lesson/L02/EX04/Exercise04Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/App.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Lesson/ContentOfEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson/ContentOfEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Lesson/L02/Exercise01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson/L02/EX01/Exercise01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Lesson/L02/Exercise02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson/L02/EX02/Exercise02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Lesson/L05/Exercise01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson/L05/EX01/Exercise01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Lesson/L02/Exercise01Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Lesson/L02/EX01/Exercise01Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Lesson/L02/Exercise02Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Lesson/L02/EX02/Exercise02Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Lesson/L05/Exercise01Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Lesson/L05/EX01/Exercise01Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Lesson/L02/EX03/Exercise03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson/L02/EX03/Exercise03.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/App.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/Lesson/ContentOfEx.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Lesson/ContentOfEx.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson/L02/EX03/Exercise03.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Lesson/L02/EX03/Exercise03.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -27,47 +21,74 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DockManager">
-    <window id="1">
-      <content type="file-editors">
-        <state>
-          <leaf>
-            <file leaf-file-name="Exercise03Test.java" pinned="false" current-in-tab="true">
-              <entry file="file://$PROJECT_DIR$/src/test/java/Lesson/L02/EX03/Exercise03Test.java">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="68">
-                    <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
-                    <folding>
-                      <element signature="e#300#301#0" expanded="true" />
-                      <element signature="e#345#346#0" expanded="true" />
-                      <element signature="e#375#376#0" expanded="true" />
-                      <element signature="e#406#407#0" expanded="true" />
-                    </folding>
-                  </state>
-                </provider>
-              </entry>
-            </file>
-          </leaf>
-        </state>
-      </content>
-    </window>
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="ContentOfEx.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Lesson/ContentOfEx.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="49" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
+            <state relative-caret-position="255">
+              <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="App.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Exercise04.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Lesson/L02/EX04/Exercise04.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="500">
+              <caret line="76" column="116" selection-start-line="76" selection-start-column="116" selection-end-line="76" selection-end-column="116" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#500#501#0" expanded="true" />
+                <element signature="e#531#532#0" expanded="true" />
+                <element signature="e#586#587#0" expanded="true" />
+                <element signature="e#626#627#0" expanded="true" />
+                <element signature="e#670#671#0" expanded="true" />
+                <element signature="e#704#705#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Exercise04Test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Lesson/L02/EX04/Exercise04Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="26" column="32" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
+              <folding>
+                <element signature="e#856#857#0" expanded="true" />
+                <element signature="e#923#924#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Exercise01.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Lesson/L02/EX01/Exercise01.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="343">
+              <caret line="22" column="23" lean-forward="true" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../5 semesttr/AP RŚP/02 - 14.10.2020/Listy/Zad04/src/pl/grzegorzpietrzyk/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="24">
+              <caret line="8" column="52" lean-forward="true" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="App.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/App.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+            <state relative-caret-position="85">
+              <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -78,8 +99,8 @@
       <file leaf-file-name="Exercise03.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Lesson/L02/EX03/Exercise03.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+            <state relative-caret-position="340">
+              <caret line="20" column="46" selection-start-line="20" selection-start-column="46" selection-end-line="20" selection-end-column="46" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -98,19 +119,6 @@
                 <element signature="e#235#236#0" expanded="true" />
                 <element signature="e#283#284#0" expanded="true" />
                 <element signature="e#315#316#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="EmployeeTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Lesson/L02/EX03/EmployeeTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="10" column="14" lean-forward="true" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
-              <folding>
-                <element signature="e#587#588#0" expanded="true" />
-                <element signature="e#640#641#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -167,12 +175,15 @@
         <option value="$PROJECT_DIR$/src/main/java/Lesson/L02/Exercise01.java" />
         <option value="$PROJECT_DIR$/src/main/java/Lesson/L02/Exercise02.java" />
         <option value="$PROJECT_DIR$/src/test/java/Lesson/L02/Exercise02Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/App.java" />
         <option value="$PROJECT_DIR$/src/main/java/Lesson/L02/EX03/Employee.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Lesson/ContentOfEx.java" />
         <option value="$PROJECT_DIR$/src/test/java/Lesson/L02/EX03/EmployeeTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Lesson/L02/EX03/Exercise03.java" />
         <option value="$PROJECT_DIR$/src/test/java/Lesson/L02/EX03/Exercise03Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Lesson/L02/EX03/Exercise03.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Lesson/ContentOfEx.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Lesson/L02/EX04/Exercises04.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Lesson/L02/EX04/Exercise04Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/App.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Lesson/L02/EX04/Exercise04.java" />
       </list>
     </option>
   </component>
@@ -193,10 +204,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1866" />
+    <option name="x" value="-1928" />
     <option name="y" value="-8" />
-    <option name="width" value="1874" />
-    <option name="height" value="1096" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -258,7 +269,17 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="Lesson" type="462c0819:PsiDirectoryNode" />
               <item name="L02" type="462c0819:PsiDirectoryNode" />
-              <item name="EX03" type="462c0819:PsiDirectoryNode" />
+              <item name="EX01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ARSP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ARSP" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Lesson" type="462c0819:PsiDirectoryNode" />
+              <item name="L02" type="462c0819:PsiDirectoryNode" />
+              <item name="EX04" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ARSP" type="b2602c69:ProjectViewProjectNode" />
@@ -313,6 +334,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="extract.method.default.visibility" value="private" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -322,6 +344,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="Lesson.L02.EX04" />
       <recent name="Lesson.L02.EX03" />
       <recent name="Lesson.L02" />
       <recent name="Zajecia.Zajecia05" />
@@ -349,7 +372,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Exercise03Test">
+  <component name="RunManager" selected="Application.App">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="App" />
       <module name="ARSP" />
@@ -427,29 +450,6 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="Exercise02Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ARSP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lesson.L02.EX01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="Lesson.L02.EX02" />
-      <option name="MAIN_CLASS_NAME" value="Lesson.L02.EX02.Exercise02Test" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
     <configuration name="Exercise03Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ARSP" />
       <extension name="coverage">
@@ -462,6 +462,29 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="Lesson.L02.EX03" />
       <option name="MAIN_CLASS_NAME" value="Lesson.L02.EX03.Exercise03Test" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="Exercise04Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ARSP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson.L02.EX04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="Lesson.L02.EX04" />
+      <option name="MAIN_CLASS_NAME" value="Lesson.L02.EX04.Exercise04Test" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -514,17 +537,17 @@
     <list>
       <item itemvalue="Application.App" />
       <item itemvalue="JUnit.Exercise01Test" />
-      <item itemvalue="JUnit.Exercise02Test" />
       <item itemvalue="JUnit.EmployeeTest" />
       <item itemvalue="JUnit.Exercise03Test" />
+      <item itemvalue="JUnit.Exercise04Test" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Exercise03Test" />
         <item itemvalue="Application.App" />
+        <item itemvalue="JUnit.Exercise04Test" />
+        <item itemvalue="JUnit.Exercise03Test" />
         <item itemvalue="JUnit.EmployeeTest" />
         <item itemvalue="JUnit.Exercise01Test" />
-        <item itemvalue="JUnit.Exercise02Test" />
       </list>
     </recent_temporary>
   </component>
@@ -543,39 +566,39 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Zad0501Test - 2020.11.05 at 23h 20m 01s.xml">
-      <configuration name="Zad0501Test" configurationId="JUnit" />
+    <history-entry file="Exercise04Test - 2020.11.08 at 04h 23m 38s.xml">
+      <configuration name="Exercise04Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Zad0501Test - 2020.11.05 at 23h 20m 31s.xml">
-      <configuration name="Zad0501Test" configurationId="JUnit" />
+    <history-entry file="Exercise04Test - 2020.11.08 at 04h 24m 16s.xml">
+      <configuration name="Exercise04Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Zad0501Test - 2020.11.05 at 23h 21m 36s.xml">
-      <configuration name="Zad0501Test" configurationId="JUnit" />
+    <history-entry file="Exercise04Test - 2020.11.08 at 04h 24m 36s.xml">
+      <configuration name="Exercise04Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Zad0501Test - 2020.11.05 at 23h 26m 46s.xml">
-      <configuration name="Zad0501Test" configurationId="JUnit" />
+    <history-entry file="Exercise04Test - 2020.11.08 at 04h 26m 02s.xml">
+      <configuration name="Exercise04Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Zad0501Test - 2020.11.05 at 23h 27m 56s.xml">
-      <configuration name="Zad0501Test" configurationId="JUnit" />
+    <history-entry file="Exercise04Test - 2020.11.08 at 04h 27m 47s.xml">
+      <configuration name="Exercise04Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Exercise02Test - 2020.11.06 at 00h 44m 08s.xml">
-      <configuration name="Exercise02Test" configurationId="JUnit" />
+    <history-entry file="Exercise04Test - 2020.11.08 at 04h 29m 17s.xml">
+      <configuration name="Exercise04Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EmployeeTest - 2020.11.06 at 02h 33m 26s.xml">
-      <configuration name="EmployeeTest" configurationId="JUnit" />
+    <history-entry file="Exercise04Test - 2020.11.08 at 04h 31m 30s.xml">
+      <configuration name="Exercise04Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Exercise03Test - 2020.11.06 at 02h 35m 34s.xml">
-      <configuration name="Exercise03Test" configurationId="JUnit" />
+    <history-entry file="Exercise04Test - 2020.11.08 at 04h 31m 51s.xml">
+      <configuration name="Exercise04Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Exercise03Test - 2020.11.06 at 02h 36m 20s.xml">
-      <configuration name="Exercise03Test" configurationId="JUnit" />
+    <history-entry file="Exercise04Test - 2020.11.08 at 04h 32m 25s.xml">
+      <configuration name="Exercise04Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Exercise03Test - 2020.11.06 at 02h 36m 52s.xml">
-      <configuration name="Exercise03Test" configurationId="JUnit" />
+    <history-entry file="Exercise04Test - 2020.11.08 at 04h 33m 00s.xml">
+      <configuration name="Exercise04Test" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27832000" />
+    <option name="totallyTimeSpent" value="36163000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -587,31 +610,31 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1866" y="-8" width="1874" height="1096" extended-state="6" />
+    <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32985386" />
-      <window_info anchor="bottom" id="Messages" order="9" sideWeight="0.49614114" weight="0.32881" />
+      <window_info anchor="bottom" id="Messages" order="9" sideWeight="0.49614114" weight="0.3278867" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50441015" side_tool="true" weight="0.302714" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49558985" visible="true" weight="0.30167013" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49558985" visible="true" weight="0.32897604" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32985386" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49779493" weight="0.32985386" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49779493" weight="0.34422657" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24972437" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24147122" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49889746" weight="0.32985386" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39979124" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39978212" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" id="Palette" order="5" />
       <window_info id="Designer" order="4" />
@@ -682,36 +705,75 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/App.java</url>
-          <line>12</line>
+          <line>13</line>
           <properties />
           <option name="timeStamp" value="9" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Lesson/L02/EX04/Exercise04Test.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Lesson/L02/EX04/Exercise04Test.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Lesson/L02/EX04/Exercise04Test.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Lesson/L02/EX04/Exercise04Test.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Lesson/L02/EX04/Exercise04Test.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Lesson/L02/EX04/Exercise04Test.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Lesson/L02/EX04/Exercise04Test.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Lesson/L02/EX04/Exercise04Test.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Lesson/L02/EX04/Exercise04Test.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Lesson/L02/EX04/Exercise04Test.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="22" />
+      <option name="time" value="43" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/sling/org.apache.sling.commons.classloader/1.4.4/org.apache.sling.commons.classloader-1.4.4.jar!/org/apache/sling/commons/classloader/DynamicClassLoaderManager.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/sling/org.apache.sling.commons.classloader/1.4.4/org.apache.sling.commons.classloader-1.4.4.jar!/org/apache/sling/commons/classloader/DynamicClassLoader.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/sling/org.apache.sling.commons.classloader/1.4.4/org.apache.sling.commons.classloader-1.4.4.jar!/org/apache/sling/commons/classloader/ClassLoaderWriterListener.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/apache/sling/org.apache.sling.commons.classloader/1.4.4/org.apache.sling.commons.classloader-1.4.4.jar!/org/apache/sling/commons/classloader/ClassLoaderWriter.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -927,30 +989,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Lesson/L02/EX01/Exercise01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../5 semesttr/AP RŚP/05 - 04.11.2020/src/pl/grzegorzpietrzyk/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../5 semesttr/AP RŚP/02 - 14.10.2020/Listy/Zad03/src/pl/grzegorzpietrzyk/Main.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Lesson/ContentOfEx.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="49" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
         </state>
       </provider>
     </entry>
@@ -979,29 +1021,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Lesson/L02/EX03/Exercise03Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
-          <folding>
-            <element signature="e#300#301#0" expanded="true" />
-            <element signature="e#345#346#0" expanded="true" />
-            <element signature="e#375#376#0" expanded="true" />
-            <element signature="e#406#407#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Lesson/L02/EX03/Exercise03.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Lesson/L05/EX01/Exercise01.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -1026,12 +1045,89 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/App.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Lesson/L02/EX03/Exercise03Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        <state relative-caret-position="272">
+          <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+          <folding>
+            <element signature="e#300#301#0" expanded="true" />
+            <element signature="e#345#346#0" expanded="true" />
+            <element signature="e#375#376#0" expanded="true" />
+            <element signature="e#406#407#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Lesson/L02/EX03/Exercise03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="46" selection-start-line="20" selection-start-column="46" selection-end-line="20" selection-end-column="46" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Lesson/ContentOfEx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../5 semesttr/AP RŚP/02 - 14.10.2020/Listy/Zad03/src/pl/grzegorzpietrzyk/Main.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Lesson/L02/EX04/Exercise04Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="26" column="32" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
+          <folding>
+            <element signature="e#856#857#0" expanded="true" />
+            <element signature="e#923#924#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Lesson/L02/EX01/Exercise01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="22" column="23" lean-forward="true" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../5 semesttr/AP RŚP/02 - 14.10.2020/Listy/Zad04/src/pl/grzegorzpietrzyk/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="8" column="52" lean-forward="true" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Lesson/L02/EX04/Exercise04.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="76" column="116" selection-start-line="76" selection-start-column="116" selection-end-line="76" selection-end-column="116" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#500#501#0" expanded="true" />
+            <element signature="e#531#532#0" expanded="true" />
+            <element signature="e#586#587#0" expanded="true" />
+            <element signature="e#626#627#0" expanded="true" />
+            <element signature="e#670#671#0" expanded="true" />
+            <element signature="e#704#705#0" expanded="true" />
           </folding>
         </state>
       </provider>
