@@ -20,6 +20,9 @@ public class ContentOfEx {
     public static final String L02_EX06 = "Wykorzystując zbiór, przygotuj metodę która jako parametr przyjmie słowo\n" +
             "i wyświetli wszystkie zawarte w nim litery (bez duplikatów, np. dla ALA należy\n" +
             "wyświetlić A, L).";
+    public static final String L02_EX07 = "Przygotuj 3 mapy różnych typów. Do każdej dodaj identyczne pary klucz – wartość\n" +
+            "(dowolne). Uruchom program w trybie debugowania i zaobserwuj różnice\n" +
+            "w prezentowaniu wartości w mapie.\n";
 
     //05
     public static final String L05_EX01 = "Napisz  funkcję,  która  sprawdzi,  czy przekazane  w  parametrze  słowo  jest palindromem.\n" +
