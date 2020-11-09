@@ -1,5 +1,7 @@
 package Lesson.L02.EX07;
 
+import Lesson.ContentOfEx;
+
 import java.util.*;
 
 public class Exercise07 {
@@ -22,6 +24,23 @@ public class Exercise07 {
         map.put(5, "Paweł");
         map.put(4, "Karolina");
         map.put(1, "Sara");
+    }
+
+    public void solve (){
+        System.out.println(ContentOfEx.L02_EX07);
+        System.out.println();
+        System.out.println("Hash Map:");
+        printMap(hash);
+        System.out.println();
+        System.out.println("Linked Map:");
+        printMap(linked);
+        System.out.println();
+        System.out.println("Tree Map:");
+        printMap(tree);
+    }
+
+    private void printMap(Map<Integer, String> map) {
+        map.forEach((k,v) -> System.out.println("Key: " + k + ", Value: " + v));
     }
 
     public Map<Integer, String> getHash() {

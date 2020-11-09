@@ -23,6 +23,10 @@ public class ContentOfEx {
     public static final String L02_EX07 = "Przygotuj 3 mapy różnych typów. Do każdej dodaj identyczne pary klucz – wartość\n" +
             "(dowolne). Uruchom program w trybie debugowania i zaobserwuj różnice\n" +
             "w prezentowaniu wartości w mapie.\n";
+    public static final String L02_EX08 = "Przygotuj mapę, która przechowa oceny z dowolnej liczby przedmiotów";
+    public static final String L02_EX09 = "• Przygotuj klasę Person (imię, nazwisko, wiek, zawód). Przygotuj mapę, która jako\n" +
+            "klucz przyjmie pesel, a jako wartość – obiekt klasy Person. Zaimplementuj metodę\n" +
+            "dodającą do mapy oraz wyświetlającą dane pobrane z mapy.";
 
     //05
     public static final String L05_EX01 = "Napisz  funkcję,  która  sprawdzi,  czy przekazane  w  parametrze  słowo  jest palindromem.\n" +
