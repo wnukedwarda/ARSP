@@ -28,8 +28,18 @@ public class ContentOfEx {
             "klucz przyjmie pesel, a jako wartość – obiekt klasy Person. Zaimplementuj metodę\n" +
             "dodającą do mapy oraz wyświetlającą dane pobrane z mapy.";
 
+    //03
+    public static final String L03_EX01 = "Napisz metodę, wczytującą imię, nazwisko, zawód oraz maksymalną szerokość pola (dowolnej  zmiennej).\n" +
+            "Sprawdź,  czy  którakolwiek  ze  zmiennych  jest  dłuższa  od założonej maksymalnej szerokości pola. Wykorzystaj złożony warunek logiczny.";
+
     //05
     public static final String L05_EX01 = "Napisz  funkcję,  która  sprawdzi,  czy przekazane  w  parametrze  słowo  jest palindromem.\n" +
             "Funkcja powinna być napisana w sposób optymalny –jej wykonywanie powinno zostać zakończone, gdy uzyskana zostanie odpowiednia informacja.\n"
             + "Zmodyfikuj funkcję tak, by działała poprawnie również dla pełnych zdań.";
+    public static final String L05_EX02 = "•Utwórz stałą –ciąg zawarty w treści zadania.\n" +
+            "•W poniższym ciągu:\nThere's an evolutionary imperative why we give a crap about our family and friends. And there's an evolutionary imperative why we don't give a crap about anybody else. If we loved all people indiscriminately, we couldn't function.House MD\n" +
+            "•Znajdź najdłuższy oraz najkrótszy wyraz. Wskaż ich miejsce (kolejność) w ciągu. Jeżeli więcej niż jedno słowo posiada taką samą długość, za najkrótsze / najdłuższe należy uznać ostatnie z nich." +
+            "•Wyświetl  najkrótsze  i  najdłuższe  słowo –jeśli  w  ciągu  występuje  więcej  słów odługości najkrótszego lub najdłuższego słowa –wyświetl wszystkie.\n" +
+            "•Wyświetl wszystkie słowa z zamienionym jednym znakiem (użytkownik musi określić znak do zmiany oraz znak, na który należy zmienić) wykorzystaj pętlę for –each.\n" +
+            "•Wszystkie  zadania  powinny  być  zrealizowane  przez  oddzielne  metody  w  klasie odowolnej nazwie.";
 }
