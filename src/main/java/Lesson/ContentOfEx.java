@@ -31,6 +31,8 @@ public class ContentOfEx {
     //03
     public static final String L03_EX01 = "Napisz metodę, wczytującą imię, nazwisko, zawód oraz maksymalną szerokość pola (dowolnej  zmiennej).\n" +
             "Sprawdź,  czy  którakolwiek  ze  zmiennych  jest  dłuższa  od założonej maksymalnej szerokości pola. Wykorzystaj złożony warunek logiczny.";
+    public static final String L03_EX02 = "Napisz metodę, która otrzyma tablicę Stringów oraz prefix i sprawdzi, ile elementów tablicy  posiada  wskazany  prefix.\n" +
+            "Metoda  powinna  zwracać  typ  całkowity. Wykorzystaj pętlę for–each";
 
     //05
     public static final String L05_EX01 = "Napisz  funkcję,  która  sprawdzi,  czy przekazane  w  parametrze  słowo  jest palindromem.\n" +
