@@ -5,33 +5,24 @@ import Lesson.ContentOfEx;
 import java.util.Arrays;
 
 public class Exercise02 {
-    private String sampleTab [];
-    private String samplePrefix;
-
-    public Exercise02() {
-        this.sampleTab = new String[]{"32323","1112", "10","546","10","864","10"};
-        this.samplePrefix = "10";
+    public int getCountPrefix() {
+        return countPrefix;
     }
 
-    public String[] getSampleTab() {
-        return sampleTab;
-    }
-
-    public String getSamplePrefix() {
-        return samplePrefix;
-    }
+    private int countPrefix;
 
     public int prefixes(String tab[], String prefix) {
-        int result = 0;
         for (String s : tab) {
-            if (s.equals(prefix)) result++;
+            if (s.equals(prefix)) countPrefix++;
         }
-        return result;
+        return countPrefix;
     }
 
     public void solve(){
         System.out.println(ContentOfEx.L03_EX02);
         System.out.println();
+        String sampleTab [] = {"32323","1112", "10","546","10","864","10"};
+        String samplePrefix = "10";
         System.out.println("Sample Prefixes:");
         Arrays.stream(sampleTab).forEach(el-> System.out.print(el +", "));
         System.out.println();

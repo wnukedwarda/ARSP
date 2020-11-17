@@ -33,6 +33,8 @@ public class ContentOfEx {
             "Sprawdź,  czy  którakolwiek  ze  zmiennych  jest  dłuższa  od założonej maksymalnej szerokości pola. Wykorzystaj złożony warunek logiczny.";
     public static final String L03_EX02 = "Napisz metodę, która otrzyma tablicę Stringów oraz prefix i sprawdzi, ile elementów tablicy  posiada  wskazany  prefix.\n" +
             "Metoda  powinna  zwracać  typ  całkowity. Wykorzystaj pętlę for–each";
+    public static final String L03_EX03 = "Zmodyfikuj  (sparametryzuj)  poprzednią  metodę  tak,  by  umożliwiała  ona  także sprawdzenie, ile elementów posiada określony sufix.\n" +
+            "Działanie metody (sprawdzanie prefixu / sufixu) ma zależeć od wartości parametru. ";
 
     //05
     public static final String L05_EX01 = "Napisz  funkcję,  która  sprawdzi,  czy przekazane  w  parametrze  słowo  jest palindromem.\n" +
