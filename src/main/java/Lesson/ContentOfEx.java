@@ -35,6 +35,8 @@ public class ContentOfEx {
             "Metoda  powinna  zwracać  typ  całkowity. Wykorzystaj pętlę for–each";
     public static final String L03_EX03 = "Zmodyfikuj  (sparametryzuj)  poprzednią  metodę  tak,  by  umożliwiała  ona  także sprawdzenie, ile elementów posiada określony sufix.\n" +
             "Działanie metody (sprawdzanie prefixu / sufixu) ma zależeć od wartości parametru. ";
+    public static final String L03_EX04 = "Napisz funkcję, pobierającą ciąg znaków, początek oraz koniec obszaru wycinania.\n" +
+            "Zwróć  wycięty  fragment  tekstu  w  formacie:  Tekst  oryginalny:   tekst_oryginalny, zakres  wycinania: początek,\nkoniec,  wynik  wycinania: wynik, długość  wyciętego ciągu: dlugosc";
 
     //05
     public static final String L05_EX01 = "Napisz  funkcję,  która  sprawdzi,  czy przekazane  w  parametrze  słowo  jest palindromem.\n" +
@@ -46,4 +48,5 @@ public class ContentOfEx {
             "•Wyświetl  najkrótsze  i  najdłuższe  słowo –jeśli  w  ciągu  występuje  więcej  słów odługości najkrótszego lub najdłuższego słowa –wyświetl wszystkie.\n" +
             "•Wyświetl wszystkie słowa z zamienionym jednym znakiem (użytkownik musi określić znak do zmiany oraz znak, na który należy zmienić) wykorzystaj pętlę for –each.\n" +
             "•Wszystkie  zadania  powinny  być  zrealizowane  przez  oddzielne  metody  w  klasie odowolnej nazwie.";
+
 }
