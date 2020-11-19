@@ -38,6 +38,17 @@ public class ContentOfEx {
     public static final String L03_EX04 = "Napisz funkcję, pobierającą ciąg znaków, początek oraz koniec obszaru wycinania.\n" +
             "Zwróć  wycięty  fragment  tekstu  w  formacie:  Tekst  oryginalny:   tekst_oryginalny, zakres  wycinania: początek,\nkoniec,  wynik  wycinania: wynik, długość  wyciętego ciągu: dlugosc";
 
+    public static final String L03_EX05 = "Napisz  funkcję  typu  boolean,  sprawdzającą  czy  wprowadzone  (polskie)  imię  jest imieniem żeńskim. ";
+
+    public static final String L03_EX06 = "Napisz  funkcję,  która  sprawdzi  jaki  znak  najczęściej  występuje  w  podanym  ciągu znaków. Następnie dokonaj podziału ciągu (split) na podstawie wyszukanego znaku.\n" +
+            "Wyświetl  informacje  o  liczbie  elementów  w  powstałej  tablicy  oraz  znaku,  na podstawie którego dokonano podziału.";
+
+    public static final String L03_EX07 = "";
+    public static final String L03_EX08 = "";
+    public static final String L03_EX09 = "";
+    public static final String L03_EX10 = "";
+    public static final String L03_EX11 = "";
+    public static final String L03_EX12 = "";
     //05
     public static final String L05_EX01 = "Napisz  funkcję,  która  sprawdzi,  czy przekazane  w  parametrze  słowo  jest palindromem.\n" +
             "Funkcja powinna być napisana w sposób optymalny –jej wykonywanie powinno zostać zakończone, gdy uzyskana zostanie odpowiednia informacja.\n"

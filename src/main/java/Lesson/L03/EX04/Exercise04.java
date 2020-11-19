@@ -14,6 +14,9 @@ public class Exercise04 {
     }
 
     public String clipping(String text, int start, int end) {
+        if(!result.toString().isEmpty()){
+            result = new StringBuilder();
+        }
         result.append("Original text: ")
                 .append(text)
                 .append(", cutting range: |")
