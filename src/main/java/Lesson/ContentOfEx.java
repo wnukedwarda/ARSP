@@ -43,7 +43,10 @@ public class ContentOfEx {
     public static final String L03_EX06 = "Napisz  funkcję,  która  sprawdzi  jaki  znak  najczęściej  występuje  w  podanym  ciągu znaków. Następnie dokonaj podziału ciągu (split) na podstawie wyszukanego znaku.\n" +
             "Wyświetl  informacje  o  liczbie  elementów  w  powstałej  tablicy  oraz  znaku,  na podstawie którego dokonano podziału.";
 
-    public static final String L03_EX07 = "";
+    public static final String L03_EX07 = "Przygotuj  klasę  Person,  zawierającą  następujące  pola:  imię,  nazwisko,  pesel,  wiek, data urodzenia, płeć.\n" +
+            "Wczytaj dane: imię, nazwisko, pesel. Przygotuj metody, które wypełnią  pola  płeć,  wiek  i  data  urodzenia\n" +
+            "na  podstawie  danych  z  innych  pól (wykorzystaj odpowiednie metody z klasy String).";
+
     public static final String L03_EX08 = "";
     public static final String L03_EX09 = "";
     public static final String L03_EX10 = "";
